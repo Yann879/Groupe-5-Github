@@ -1,0 +1,13 @@
+GROUPE 5 - TRAVAUX PRATIQUES GIT
+
+Objectif : Apprendre les commandes Git.
+
+Commandes étudiées :
+- git init
+- git add
+- git commit
+- git push
+- git pull
+- git restore
+
+Ce dépôt contient nos exercices pratiques.
