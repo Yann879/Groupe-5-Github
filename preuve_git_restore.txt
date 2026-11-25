@@ -1,4 +1,4 @@
 PREUVE DE LA COMMANDE GIT RESTORE
-Date et heure : Wed Nov 25 22:10:55     2026
+Date et heure : mercredi Novembre 25 22:10:55     2026
 Commande exécutée : git restore presentation.txt
 Résultat : restauration réussie
